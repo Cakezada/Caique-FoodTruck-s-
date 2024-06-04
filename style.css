@@ -25,6 +25,9 @@ a:hover{
     text-align: center;
     padding: 1px;
 }
+.li_cardapio{
+    align-items: center;
+}
 .c1{
     padding-right: 30px;
 }
